@@ -95,3 +95,4 @@ Class MainActivity2 inherits AppCompatActivity:
             When window insets are applied:
                 Get system bars insets
                 Set padding of the view to the system bars insets
+                https://github.com/VCDN-2024/imad5112-practicum-Theshenaidoo/issues/1#issue-2343932687
